@@ -1,12 +1,10 @@
 # keycounter
+## overview
+this program let you allow to count how many type in a day, week or etc. 
 
-このプログラムは、キーボードからの入力の回数をカウントし、log.csvファイルを作成し、そこに記録をためていくものとなります。
-This programme counts the number of keystrokes, creates a log.csv file, and stores the records in it.
-
-# How to use
-cd to src/ and type "sudo ./keycounter"
+## How to use
+move to src/main.cpp directory and run "g++ main.cpp" and run "a.out"
 
 ## LISCENCE
-ライセンスはLISCENSEを参照。
-
-license is "[LICENSE](LICENSE)"
+Please refer the License
+license are below. "[LICENSE](LICENSE)"
