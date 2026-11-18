@@ -8,3 +8,5 @@ cd to src/ and type "sudo ./keycounter"
 
 ## LISCENCE
 ライセンスはLISCENSEを参照。
+
+[description](LICENSE)
