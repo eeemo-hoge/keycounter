@@ -10,3 +10,4 @@ cd to src/ and type "sudo ./keycounter"
 ライセンスはLISCENSEを参照。
 
 [description](LICENSE)
+license is "[LICENSE](LICENSE)"
